@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Braylon Dunn
 
-<!--
-**braylond770/braylond770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior Software Engineer | Full-Stack | React | .NET | Azure | AWS**
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio!  
+I build secure, scalable, and user-friendly web applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+- [PI-DOGS-MAIN](https://github.com/braylond770/PI-DOGS-MAIN) — A React + Redux app for exploring dog breeds.
+- [Spotify Profile](https://github.com/braylond770/spotify-profile) — A personal Spotify analytics dashboard.
+- [Halcyon Site](https://github.com/braylond770/halcyon-site) — A responsive company landing page with animations.
+
+---
+
+### 🧰 Tech Stack
+**Frontend:** React, Next.js, TypeScript, Tailwind, Redux  
+**Backend:** Node.js, Express, ASP.NET Core, C#  
+**Database:** PostgreSQL, SQL Server, MongoDB  
+**Cloud:** Azure, AWS, Docker, Kubernetes  
+
+---
+
+### 📫 Connect with Me
+- 📧 **Email:** braylond770@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/braylon-dunn-34b76137b](https://www.linkedin.com/in/braylon-dunn-34b76137b)  
+- 🌐 **Portfolio:** [albert-boyd.vercel.app](https://albert-boyd.vercel.app)
+
+---
+
+![Braylon's GitHub stats](https://github-readme-stats.vercel.app/api?username=braylond770&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braylond770&layout=compact&theme=tokyonight)
