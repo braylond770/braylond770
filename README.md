@@ -24,7 +24,7 @@ I build secure, scalable, and user-friendly web applications using modern techno
 
 ### 📫 Connect with Me
 - 📧 **Email:** braylond770@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/braylon-dunn-34b76137b](https://www.linkedin.com/in/braylon-dunn-34b76137b)  
+- 💼 **LinkedIn:** [linkedin.com/in/braylon-dunn-1aa3563a3](https://www.linkedin.com/in/braylon-dunn-1aa3563a3)  
 - 🌐 **Portfolio:** [braylon-dunn.vercel.app](https://braylon-dunn.vercel.app)
 
 ---
